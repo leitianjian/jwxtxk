@@ -1,0 +1,5 @@
+# just one
+data_dir   $HOME
+stop_words_dir = whatever
+theme : dark
+
