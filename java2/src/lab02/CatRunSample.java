@@ -1,8 +1,9 @@
 package lab02;
 
+import lab02.myPractice.StdDraw;
+
 class CFG {
     public final static int DEFAULT_CANVAS_WIDTH = 400;
-
     public final static int DEFAULT_CANVAS_HEIGHT = 400;
     public final static int DEFAULT_SCALE_MIN = -1000;
     public final static int DEFAULT_SCALE_MAX = 1000;
@@ -22,7 +23,7 @@ public class CatRunSample {
 		int scaledHeight = CFG.DEFAULT_SCALE_MAX;
 		int scaledWidth = picture.width() * CFG.DEFAULT_SCALE_MAX / picture.height();
 
-		int speed = 80;
+		int speed = 20;
 		StdDraw.enableDoubleBuffering();
 		double y = 0;
 		double x = CFG.DEFAULT_SCALE_MIN + 0.5 * scaledHeight;
@@ -31,7 +32,7 @@ public class CatRunSample {
 			StdDraw.clear();
 			StdDraw.picture(x, y, imageFileName, scaledWidth, scaledHeight);
 			StdDraw.show();
-			StdDraw.pause(100);
+			StdDraw.pause(25);
 
 		}
 	}

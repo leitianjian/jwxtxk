@@ -4,7 +4,48 @@
     <bookmark url="file://$PROJECT_DIR$/src/lab05" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc6cf4f1-b503-483e-a315-99f17d2f5729" name="Default Changelist" comment="" />
+    <list default="true" id="bc6cf4f1-b503-483e-a315-99f17d2f5729" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/AlgorithmAnalysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/src/lab01/StableMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/Assi01/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/Lecture02/WordQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/Lecture02/unix-words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/Lecture02/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/AnimalRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/StdDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Turtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/GlassPicture.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/GlassPicture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/RotatePicture.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/RotatePicture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/SwirlPicture.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/SwirlPicture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/test2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/CFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/CFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/CatRunSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/CatRunSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Lecture01/DragonCurve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/Lecture01/DragonCurve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Lecture01/GlassPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/Lecture01/GlassPicture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Lecture01/HilbertCurve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/Lecture01/HilbertCurve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Lecture01/RotatePicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/Lecture01/RotatePicture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Lecture01/SwirlPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/Lecture01/SwirlPicture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Lecture01/cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Lecture01/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Lecture01/test2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/CatRunSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/CatRunSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/StdDraw.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,59 +66,6 @@
     </option>
     <expand />
     <select />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1620360493">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="18" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.38" value="2" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.44" value="2" />
-          <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.49" value="1" />
-          <entry key="project.open.time.50" value="1" />
-          <entry key="project.open.time.53" value="1" />
-          <entry key="project.open.time.72" value="1" />
-          <entry key="project.open.time.86" value="1" />
-          <entry key="project.open.time.92" value="1" />
-          <entry key="project.opened" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="14" />
-          <entry key="snippet" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="16" />
-          <entry key="Scratch" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="31341" />
-          <entry key="txt" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="31477" />
-          <entry key="PLAIN_TEXT" value="4" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -131,7 +119,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/StableMatching.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -140,13 +128,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2431">
-              <caret line="143" selection-start-line="143" selection-end-line="143" />
+            <state relative-caret-position="355">
+              <caret line="158" column="19" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/jdk1.8.0_191/src.zip!/java/math/BigInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-375">
+              <caret line="692" column="29" selection-start-line="692" selection-start-column="29" selection-end-line="692" selection-end-column="29" />
+              <folding>
+                <element signature="e#22896#22897#0" expanded="true" />
+                <element signature="e#22925#22926#0" expanded="true" />
+                <element signature="e#23600#23601#0" expanded="true" />
+                <element signature="e#23649#23650#0" expanded="true" />
+                <element signature="e#88811#88812#0" expanded="true" />
+                <element signature="e#88870#88871#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,6 +189,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -199,12 +207,6 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand />
@@ -217,12 +219,12 @@
     <option name="width" value="1291" />
     <option name="height" value="701" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,6 +256,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +265,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551340165313" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -403,11 +406,12 @@
       <workItem from="1548943812690" duration="1950000" />
       <workItem from="1549014920801" duration="894000" />
       <workItem from="1551332002223" duration="3537000" />
+      <workItem from="1552370093773" duration="7213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123642000" />
+    <option name="totallyTimeSpent" value="130855000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -420,14 +424,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="25" width="1311" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.24552846" visible="true" weight="0.19683795" />
-      <window_info id="Structure" order="1" sideWeight="0.75447154" side_tool="true" weight="0.26640317" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.24429968" visible="true" weight="0.2" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.75570035" side_tool="true" visible="true" weight="0.2" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.36422765" />
@@ -438,8 +444,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3284553" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24980237" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -453,9 +460,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -597,6 +601,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/StableMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab05/qG.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -609,20 +620,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java">
+    <entry file="jar://$USER_HOME$/jdk1.8.0_191/src.zip!/java/math/BigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        <state relative-caret-position="-375">
+          <caret line="692" column="29" selection-start-line="692" selection-start-column="29" selection-end-line="692" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#22896#22897#0" expanded="true" />
+            <element signature="e#22925#22926#0" expanded="true" />
+            <element signature="e#23600#23601#0" expanded="true" />
+            <element signature="e#23649#23650#0" expanded="true" />
+            <element signature="e#88811#88812#0" expanded="true" />
+            <element signature="e#88870#88871#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/StableMatching.java">
+    <entry file="file://$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="355">
+          <caret line="158" column="19" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

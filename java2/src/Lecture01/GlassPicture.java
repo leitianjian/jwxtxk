@@ -50,7 +50,11 @@ public class GlassPicture {
     }
 
     public static void main(String[] args) {
-        GlassPicture g = new GlassPicture("images.jpeg");
-        g.glassPicture();
+        if (args.length == 1) {
+            GlassPicture g = new GlassPicture(args[0]);
+            g.glassPicture();
+        } else {
+            System.out.println("Usage: java -classpath . GlassPicture [fileName].");
+        }
     }
 }
