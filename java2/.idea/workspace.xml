@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db834790-112d-4b44-950a-6c3751715c0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/AlgorithmAnalysis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/src/lab01/StableMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DSAA/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DSAA/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assi01/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture02/WordQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture02/unix-words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture02/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab02/myPractice/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab02/myPractice/AnimalRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab02/myPractice/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab02/myPractice/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab02/myPractice/StdDraw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab02/myPractice/Turtle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSAA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DSAA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSAA/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DSAA/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/Lecture01/GlassPicture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2/Lecture01/GlassPicture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/Lecture01/RotatePicture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2/Lecture01/RotatePicture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/Lecture01/SwirlPicture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2/Lecture01/SwirlPicture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/Lecture01/cat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/Lecture01/test.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/Lecture01/test2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/lab02/CFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2/lab02/CFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2/lab02/CatRunSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2/lab02/CatRunSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture01/DragonCurve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture01/DragonCurve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture01/GlassPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture01/GlassPicture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture01/HilbertCurve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture01/HilbertCurve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture01/RotatePicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture01/RotatePicture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture01/SwirlPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture01/SwirlPicture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture01/cat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture01/test.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture01/test2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/CatRunSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/CatRunSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/StdDraw.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -187,12 +148,6 @@
               <item name="java2" type="b2602c69:ProjectViewProjectNode" />
               <item name="java2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Assi01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -207,7 +162,7 @@
     <property name="SearchEverywhereHistoryKey" value="Line2&#9;PSI&#9;JAVA://java.awt.geom.Line2D&#10;Graphics2D&#9;PSI&#9;JAVA://java.awt.Graphics2D&#10;color&#9;PSI&#9;JAVA://java.awt.Color&#10;bufferedIm&#9;PSI&#9;JAVA://java.awt.image.BufferedImage&#10;Intege&#9;PSI&#9;JAVA://java.lang.Integer&#10;byte&#9;PSI&#9;JAVA://java.lang.Byte&#10;comparato&#9;PSI&#9;JAVA://java.util.Comparator&#10;comp&#9;PSI&#9;JAVA://java.lang.Comparable&#10;compa&#9;PSI&#9;JAVA://java.lang.Comparable&#10;Class&#9;FILE&#9;jar:///home/ltj/jdk1.8.0_191/src.zip!/java/lang/Class.java&#10;overri&#9;PSI&#9;JAVA://java.lang.Override&#10;anno&#9;FILE&#9;jar:///home/ltj/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/annotation" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552399897488" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552401880440" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../AlgorithmAnalysis" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -353,7 +308,7 @@
       <workItem from="1551841515262" duration="15504000" />
       <workItem from="1551872493160" duration="2379000" />
       <workItem from="1551874901998" duration="11508000" />
-      <workItem from="1552309354309" duration="4171000" />
+      <workItem from="1552309354309" duration="4766000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1551492964560</created>
@@ -366,7 +321,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127698000" />
+    <option name="totallyTimeSpent" value="128293000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,7 +333,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="25" width="1311" height="743" extended-state="6" />
+    <frame x="55" y="25" width="1311" height="743" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9141631" visible="true" weight="0.26561266" />
       <window_info id="Structure" order="1" sideWeight="0.08583691" side_tool="true" weight="0.24822134" />
