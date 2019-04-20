@@ -1278,7 +1278,7 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
         } 
         catch (IOException e) {
             // ignore
-        }
+        }EU
 
         // in case file is inside a .jar (classpath relative to root of jar)
         try {

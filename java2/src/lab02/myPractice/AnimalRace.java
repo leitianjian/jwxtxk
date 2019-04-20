@@ -1,6 +1,7 @@
 package lab02.myPractice;
 
 import java.util.ArrayList;
+// scale to the race height
 
 class CFG {
         public final static int DEFAULT_CANVAS_WIDTH = 400;
@@ -26,7 +27,17 @@ public class AnimalRace {
         animals.add(new Pig (40, "pig.png"));
 
         StdDraw.enableDoubleBuffering();
-        double x = 50;
+
+//        int totalWid = 0;
+//        int maxWid   = 0;
+//        int minWid   = 0;
+//        int totalHei = 0;
+//        int maxHei   = 0;
+//        int minHei   = 0;
+
+//        for (int i = 0; i < animals.size(); ++ i){
+//            totalHei +=
+//        }
 
         while (true){
             StdDraw.clear();

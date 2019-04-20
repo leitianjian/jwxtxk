@@ -4,8 +4,32 @@
     <bookmark url="file://$PROJECT_DIR$/src/lab05" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc6cf4f1-b503-483e-a315-99f17d2f5729" name="Default Changelist" comment="">
+    <list default="true" id="bc6cf4f1-b503-483e-a315-99f17d2f5729" name="Default Changelist" comment="ang">
+      <change afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/src/Splay/Splay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaGUI/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaGUI/JavaGUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/sample_code/lecture/AreaChartExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/sample_code/lecture/CssExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/sample_code/lecture/FitPlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/sample_code/lecture/StackedBarChartExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgorithmAnalysis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/Lecture02/WordQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/Lecture02/WordQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/AnimalRace.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/AnimalRace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/CFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/CFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Pig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Pig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Rabbit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Rabbit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Turtle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Turtle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab03/qG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Assi01/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/Assi01/WordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/myPractice/AnimalRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/AnimalRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Pig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Turtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/lab03/qG.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,12 +52,16 @@
     <expand />
     <select />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab06/qD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="-289">
               <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
             </state>
           </provider>
@@ -69,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab05/qG.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
+            <state relative-caret-position="1479">
               <caret line="92" column="28" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,11 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2125">
-              <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+            <state relative-caret-position="221">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,7 +132,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/jdk1.8.0_191/src.zip!/java/math/BigInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11169">
+            <state relative-caret-position="11101">
               <caret line="692" column="29" selection-start-line="692" selection-start-column="29" selection-end-line="692" selection-end-column="29" />
               <folding>
                 <element signature="e#22896#22897#0" expanded="true" />
@@ -118,11 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lab09/qI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7123">
-              <caret line="421" column="24" selection-start-line="421" selection-start-column="24" selection-end-line="421" selection-end-column="24" />
+            <state relative-caret-position="2533">
+              <caret line="217" column="47" selection-start-line="217" selection-start-column="47" selection-end-line="217" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -175,10 +203,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="47" />
-    <option name="width" value="1291" />
-    <option name="height" value="701" />
+    <option name="x" value="55" />
+    <option name="y" value="27" />
+    <option name="width" value="1311" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -186,6 +214,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,7 +232,20 @@
               <item name="DSAA" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSAA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StableMatching" type="462c0819:PsiDirectoryNode" />
+              <item name="lab06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSAA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSAA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSAA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSAA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab09" type="462c0819:PsiDirectoryNode" />
+              <item name="qI.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="DSAA" type="b2602c69:ProjectViewProjectNode" />
@@ -216,17 +259,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;Vecto&#9;PSI&#9;JAVA://java.util.Vector&#10;Stack&#9;FILE&#9;jar:///home/ltj/jdk1.8.0_191/src.zip!/java/util/Stack.java&#10;stack&#9;FILE&#9;jar:///home/ltj/jdk1.8.0_191/src.zip!/java/util/Stack.java&#10;scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;String&#9;PSI&#9;JAVA://java.lang.String" />
     <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551340165313" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553677967684" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AlgorithmAnalysis" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -368,7 +410,9 @@
       <workItem from="1549014920801" duration="894000" />
       <workItem from="1551332002223" duration="3537000" />
       <workItem from="1552370093773" duration="7213000" />
-      <workItem from="1552399887124" duration="823000" />
+      <workItem from="1552399887124" duration="1240000" />
+      <workItem from="1553676623998" duration="683000" />
+      <workItem from="1554771412982" duration="3551000" />
     </task>
     <task id="LOCAL-00001" summary="ang">
       <created>1552400053361</created>
@@ -377,11 +421,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552400053362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ang">
+      <created>1552401892168</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552401892168</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ang">
+      <created>1552401996752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552401996752</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131678000" />
+    <option name="totallyTimeSpent" value="136329000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,25 +451,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="25" width="1311" height="743" extended-state="6" />
+    <frame x="51" y="25" width="1315" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.24271844" visible="true" weight="0.20316206" />
-      <window_info id="Structure" order="1" sideWeight="0.75728154" side_tool="true" visible="true" weight="0.20316206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8106796" visible="true" weight="0.20961387" />
+      <window_info id="Structure" order="1" sideWeight="0.18932039" side_tool="true" visible="true" weight="0.20961387" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.36422765" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3284553" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32899022" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3284553" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
@@ -430,6 +488,46 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -529,13 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab06/qD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab05/lab09.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -559,7 +650,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab05/qG.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
+        <state relative-caret-position="1479">
           <caret line="92" column="28" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -576,9 +667,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/jdk1.8.0_191/src.zip!/java/math/BigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11169">
+        <state relative-caret-position="11101">
           <caret line="692" column="29" selection-start-line="692" selection-start-column="29" selection-end-line="692" selection-end-column="29" />
           <folding>
             <element signature="e#22896#22897#0" expanded="true" />
@@ -587,16 +688,6 @@
             <element signature="e#23649#23650#0" expanded="true" />
             <element signature="e#88811#88812#0" expanded="true" />
             <element signature="e#88870#88871#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab09/qI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7123">
-          <caret line="421" column="24" selection-start-line="421" selection-start-column="24" selection-end-line="421" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -610,10 +701,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AlgorithmAnalysis/StableMatching/RunningTimeSurvey.java">
+    <entry file="file://$PROJECT_DIR$/src/lab06/qD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+        <state relative-caret-position="-289">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab09/qI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="217" column="47" selection-start-line="217" selection-start-column="47" selection-end-line="217" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
