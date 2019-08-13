@@ -2,42 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24fc54ad-1407-4006-bbdb-2eb26ed47e7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Splay/Splay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab05CrossRiver/lab05CrossRiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGUI/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGUI/JavaGUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/sample_code/lecture/AreaChartExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/sample_code/lecture/CssExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/sample_code/lecture/FitPlot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGUI/src/sample_code/lecture/StackedBarChartExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java2/.idea/dictionaries/ltj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java2/src/java2_lab07/exercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java2/src/lab08/E2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java2/src/lecture07/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab08/Lab08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/.idea/libraries/jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/ch8Exception/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/ch8Exception/LengthConverter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/ch8Exception/LengthConverter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2/src/ch8Exception/TryStatementDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSAA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DSAA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/Lecture01/StdDraw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/Lecture02/WordQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/Lecture02/WordQuery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab01/FileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab01/FileTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/StdDraw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/AnimalRace.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/AnimalRace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/CFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/CFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Pig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Pig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Rabbit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Rabbit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/StdDraw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Turtle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/out/production/java2/lab02/myPractice/Turtle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/out/production/java2/lab03/qG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/sample.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/src/Assi01/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/Assi01/WordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/myPractice/AnimalRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/AnimalRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Pig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/myPractice/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/StdDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/lab02/myPractice/Turtle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java2/src/lab03/qG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/java2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/java2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/Assi02/FilesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2/src/Assi02/FilesManager.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,24 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab05CrossRiver/lab05CrossRiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="680">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
               <folding>
-                <element signature="e#1961#1962#0" expanded="true" />
-                <element signature="e#2016#2017#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab05CrossRiver/test_case.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -82,6 +46,64 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab08/Lab802.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" column="7" selection-start-line="28" selection-end-line="51" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1468#1469#0" expanded="true" />
+                <element signature="e#1523#1524#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab06BeautifulShirt/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab09DP/lab09.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2909#2910#0" expanded="true" />
+                <element signature="e#2956#2957#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab10DP/lab10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53193">
+              <caret line="3129" column="17" selection-start-line="3129" selection-start-column="17" selection-end-line="3129" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -90,6 +112,19 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>int</find>
+      <find>%</find>
+      <find>100</find>
+      <find>a</find>
+      <find>sol</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>101</replace>
+      <replace>seats</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -110,13 +145,27 @@
         <option value="$PROJECT_DIR$/src/lab05CrossRiver/lab05CrossRiver.java" />
         <option value="$PROJECT_DIR$/src/lab05CrossRiver/test_case.txt" />
         <option value="$PROJECT_DIR$/src/lab05CrossRiver/result.txt" />
+        <option value="$PROJECT_DIR$/src/Lab06BeautifulShirt/Lab05.java" />
+        <option value="$PROJECT_DIR$/src/Lab06BeautifulShirt/test.java" />
+        <option value="$PROJECT_DIR$/src/Lab06BeautifulShirt/Lab06.java" />
+        <option value="$PROJECT_DIR$/src/Lab06BeautifulShirt/testCases.txt" />
+        <option value="$PROJECT_DIR$/src/lab08/Lab08.java" />
+        <option value="$PROJECT_DIR$/src/lab08/Lab802.java" />
+        <option value="$PROJECT_DIR$/src/lab09DP/lab09.java" />
+        <option value="$PROJECT_DIR$/src/lab10DP/lab10.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="55" />
+    <option name="x" value="334" />
     <option name="y" value="27" />
-    <option name="width" value="1311" />
+    <option name="width" value="1032" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -124,45 +173,14 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AlgorithmAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmAnalysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab04Graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab05CrossRiver" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553758531497" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -178,13 +196,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.lab05CrossRiver">
-    <configuration name="AStar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab02.v2.AStar2" />
+  <component name="RunManager" selected="Application.lab10">
+    <configuration name="Lab08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab08.Lab08" />
       <module name="AlgorithmAnalysis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab02.v2.*" />
+          <option name="PATTERN" value="lab08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab03.Lab03" />
+    <configuration name="Lab802" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab08.Lab802" />
       <module name="AlgorithmAnalysis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab03.*" />
+          <option name="PATTERN" value="lab08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab02.lab02" />
+    <configuration name="Solving" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab08.Solving" />
       <module name="AlgorithmAnalysis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab02.*" />
+          <option name="PATTERN" value="lab08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab04Graph.lab04" />
+    <configuration name="lab09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab09DP.lab09" />
       <module name="AlgorithmAnalysis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab05CrossRiver.*" />
+          <option name="PATTERN" value="lab09DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab05CrossRiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab05CrossRiver.lab05CrossRiver" />
+    <configuration name="lab10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab10DP.lab10" />
       <module name="AlgorithmAnalysis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab05CrossRiver.*" />
+          <option name="PATTERN" value="lab10DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab05CrossRiver" />
-        <item itemvalue="Application.lab04" />
-        <item itemvalue="Application.Lab03" />
-        <item itemvalue="Application.lab02" />
-        <item itemvalue="Application.AStar2" />
+        <item itemvalue="Application.lab10" />
+        <item itemvalue="Application.lab09" />
+        <item itemvalue="Application.Lab08" />
+        <item itemvalue="Application.Lab802" />
+        <item itemvalue="Application.Solving" />
       </list>
     </recent_temporary>
   </component>
@@ -281,11 +299,25 @@
       <workItem from="1554771708870" duration="11743000" />
       <workItem from="1554860125803" duration="17000" />
       <workItem from="1555676956503" duration="7771000" />
+      <workItem from="1555813257846" duration="1160000" />
+      <workItem from="1555900218380" duration="133000" />
+      <workItem from="1556338868443" duration="8088000" />
+      <workItem from="1556351520373" duration="17248000" />
+      <workItem from="1556436025954" duration="1265000" />
+      <workItem from="1556442728345" duration="5934000" />
+      <workItem from="1557820958634" duration="12468000" />
+      <workItem from="1557836159293" duration="25528000" />
+      <workItem from="1557987545403" duration="465000" />
+      <workItem from="1558276963770" duration="6393000" />
+      <workItem from="1558452635054" duration="11452000" />
+      <workItem from="1559047073876" duration="12078000" />
+      <workItem from="1560046232048" duration="680000" />
+      <workItem from="1560049023130" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96364000" />
+    <option name="totallyTimeSpent" value="199257000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -299,18 +331,17 @@
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1315" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2710796" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.6748366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Regex Tester" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960473" weight="0.257329" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960473" weight="0.44299674" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49881798" weight="0.3159609" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49881798" weight="0.52443" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
@@ -318,8 +349,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50039524" side_tool="true" weight="0.38826814" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.501182" side_tool="true" weight="0.49674267" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
+      <window_info anchor="bottom" id="Regex Tester" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24980237" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,7 +363,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2710796" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3254531" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -340,8 +372,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960473" visible="true" weight="0.257329" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960473" weight="0.44299674" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49881798" weight="0.49022347" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49881798" visible="true" weight="0.41340783" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
@@ -349,8 +381,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50039524" side_tool="true" weight="0.38826814" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.501182" side_tool="true" weight="0.49674267" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
+      <window_info anchor="bottom" id="Regex Tester" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24980237" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,18 +433,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Lab03/Lab03.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lab03/Lab03.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lab03/Lab03.java</url>
           <line>122</line>
           <properties />
           <option name="timeStamp" value="13" />
@@ -445,6 +466,66 @@
           <line>27</line>
           <properties />
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab06BeautifulShirt/Lab06.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab06BeautifulShirt/Lab06.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab08/Lab08.java</url>
+          <line>348</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab08/Lab08.java</url>
+          <line>310</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab08/Lab08.java</url>
+          <line>334</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab09DP/lab09.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab09DP/lab09.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab10DP/lab10.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab10DP/lab10.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab10DP/lab10.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -503,43 +584,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab04Graph/lab04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="130" selection-start-line="130" selection-end-line="130" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="method#swap#0;class#Graph#0" />
-            <element signature="method#randomIndex#0;class#Graph#0" />
-            <element signature="method#partition#0;class#Graph#0" />
-            <element signature="method#qSort#0;class#Graph#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab03/Lab03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
-          <folding>
-            <element signature="method#arrange#0;class#Lab03#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/jdk1.8.0_191/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab05CrossRiver/result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -550,13 +598,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab04Graph/lab04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="method#swap#0;class#Graph#0" />
+            <element signature="method#randomIndex#0;class#Graph#0" />
+            <element signature="method#qSort#0;class#Graph#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab03/Lab03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-398">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06BeautifulShirt/Lab06$InputReader.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06BeautifulShirt/testCases.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06BeautifulShirt/Lab06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab08/Lab08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="327" column="86" selection-start-line="324" selection-start-column="60" selection-end-line="327" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Complex#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab05CrossRiver/lab05CrossRiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state relative-caret-position="680">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
           <folding>
-            <element signature="e#1961#1962#0" expanded="true" />
-            <element signature="e#2016#2017#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab05CrossRiver/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab08/Lab802.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="7" selection-start-line="28" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06BeautifulShirt/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab09DP/lab09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2909#2910#0" expanded="true" />
+            <element signature="e#2956#2957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53193">
+          <caret line="3129" column="17" selection-start-line="3129" selection-start-column="17" selection-end-line="3129" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab10DP/lab10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

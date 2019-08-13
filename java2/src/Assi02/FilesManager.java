@@ -32,6 +32,8 @@ public class FilesManager {
             case 4:
                 extCategory();
                 break;
+            case 5:
+                count(targetFile);
             default:
                 System.out.println("Unknown operation code.");
                 System.exit(1);
@@ -162,6 +164,20 @@ public class FilesManager {
 
     public void setBigFileSize(long bigFileSize) {
         this.bigFileSize = bigFileSize;
+    }
+
+    public void count (File file){
+        File[] files = file.listFiles();
+        String fileName = "";
+        String fileNameNow = "";
+        for (int i = 0; i < files.length; ++ i){
+            if (!files[i].isDirectory()){
+                fileName = files[i].getName();
+                System.out.println(fileName);
+            } else {
+                count(files[i]);
+            }
+        }
     }
 
     public static void main(String[] args) {
